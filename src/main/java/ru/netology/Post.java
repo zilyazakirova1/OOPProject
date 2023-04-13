@@ -4,8 +4,8 @@ public class Post {
     public String name;
     public String surname;
     public String patronymic;
-    public long phonenumber;
-    public long passportnumber;
+    public String phonenumber;
+    public String passportnumber;
     public String subscription;
     public FormDate birthday;
 

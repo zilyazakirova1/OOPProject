@@ -6,13 +6,13 @@ public class Main {
         Post post = new Post();
         post.birthday = new FormDate();
         post.birthday.day = 13;
-        post.birthday.month = 2;
-        post.birthday.year = 1989;
+        post.birthday.month = 6;
+        post.birthday.year = 1999;
         post.name = "Иван";
         post.surname = "Иванов";
         post.patronymic = "Иванович";
-        post.phonenumber = 790698000L;
-        post.passportnumber = 9612896332L;
+        post.phonenumber = "+7(999)9999999";
+        post.passportnumber = "4444 № 44444444";
         post.subscription = "true";
     }
 }
