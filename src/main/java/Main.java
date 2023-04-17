@@ -13,6 +13,6 @@ public class Main {
         post.patronymic = "Иванович";
         post.phonenumber = "+7(999)9999999";
         post.passportnumber = "4444 № 44444444";
-        post.subscription = "true";
+        post.subscription = Boolean.parseBoolean("true");
     }
 }
